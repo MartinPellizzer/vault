@@ -1,0 +1,55 @@
+2024/09/01
+
+landfill lechate + ammonium and micropollutants
+. ammonium can be biologically removed
+. but bio-relcitrant micropollutants require post-treat like ozonation
+
+. expanded clay ggregates packed biorilm column (EBC)
+. demonstrate feasibility of coupling biodegradation and ozonation (CBAO)
+    . to remove nitrogen and bio-recalcitrant micropollutants
+
+. first 60 days: only biodegradation process
+    . 51% nidtrogen was biologically removed 
+    . but micropollutant cabamazepine (CBZ) was only 30%
+. from day 61 to 150: used both biodegradation and ozonation in EBC
+    . after 48 hours: ozone wan ntroduced and bubbling trhrough EBC for 30 min to further remove residual micropollut.
+    . at 0.4 gO3/gCOD were removed
+    . avg nitrogen removal efficiency (85%) was ++ by 34%, because ++ of nitrifying and denitrifying bacteria in EBC
+
+. CBAO process good for treating landfill lechate
+
+=================================================================================
+
+2024/08/30
+
+antimicrobal efficacy of novel ophthalmic solution
+    . ozonated sunflower oil in liposones 
+    . + hypromellose in conjuntion
+    . with liposomal foam (BlofOX)
+    . in patitents undergoing intravitreal injection 
+    . compared to povicone iodine 5%
+
+. 195 patients
+    . total of 390 eyes
+    . divided into 2 groups
+    . conjuntival swaps wer colleted at baseline (T0-3 days before injection)
+
+. home terapy assigned
+    . included instilling 2 drops of isotonic ophthalmic solutino with 0.5% ozonated sunflower oil in liposomes plus hypromellos (Ozodrop)
+    . 4 times daily
+    . applying liposomal foam 2 times daily 
+
+. the control group
+    . povidone iodine 5%
+
+. treatment for 3 days
+    . at T1 (10 min before injection), all patients get 1 drop of topical solution of povidone iodine 5%
+        . in conjunctival sac of both eyes
+    . after 30 sec, the conjunctival swab was obtained 
+
+. res
+    . show significant reduction of microbial load (both in chocolate and blood ager (p < 0.007))
+    . povidone iodine 5% + Ozodrop + BlefOX gave greater reduction than providone iodine 5% alone
+    . killed about 41% to 49% of bacterial 
+
+
